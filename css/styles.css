@@ -65,7 +65,7 @@ li::after{
 /*mainbanner*/
 .mainbanner{
     grid-area: mainbanner;
-    background-image: url(/Users/lukaszlukasiewicz/Desktop/PEACE/PROJEKTY_CODEACADEMY/Responisiveclub/img/patrick-hendry-YQe10U-Jr2I-unsplash.jpeg);
+    background-image: url(https://ubik1208.github.io/responsiveclub/img/patrick-hendry-YQe10U-Jr2I-unsplash.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -193,7 +193,7 @@ li::after{
 .meetus span{
     display: block;
     font-size: 2rem;
-    padding: 3rem 0;
+    padding: 3rem 0.5rem;
 }
 
 /*contact*/
